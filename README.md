@@ -56,6 +56,8 @@ It enables quick identification of growth opportunities, underperforming areas, 
 - Screenshots (optional for preview)
 
 ## 📸 Dashboard Preview
+<img width="1325" height="743" alt="image" src="https://github.com/user-attachments/assets/c4b1bed1-e2d6-4c79-a787-49457e6f8b31" />
+
 
 
 ⭐ If you found this project useful, feel free to star the repository and share your feedback!
