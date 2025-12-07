@@ -1,5 +1,4 @@
-# E-Commerce-Sales-Dashboard
-# 📊 E-Commerce Sales Performance Dashboard | Power BI
+# 📊 Project Title: E-Commerce Sales Performance Dashboard
 
 An interactive Power BI dashboard built to analyze and visualize **Year-to-Date (YTD) sales performance** across products, categories, regions, and shipping modes.
 This project helps stakeholders make **data-driven business decisions** through clear KPIs and rich visual insights.
